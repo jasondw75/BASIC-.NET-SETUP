@@ -1,0 +1,11 @@
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\bin\Debug\net5.0\Solution.Core.deps.json
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\bin\Debug\net5.0\Solution.Core.dll
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\bin\Debug\net5.0\ref\Solution.Core.dll
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\bin\Debug\net5.0\Solution.Core.pdb
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\Solution.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\Solution.Core.AssemblyInfoInputs.cache
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\Solution.Core.AssemblyInfo.cs
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\Solution.Core.csproj.CoreCompileInputs.cache
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\Solution.Core.dll
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\ref\Solution.Core.dll
+C:\Users\wolf_j\source\repos\BASIC-.NET-SETUP\Solution.Core\obj\Debug\net5.0\Solution.Core.pdb
